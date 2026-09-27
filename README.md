@@ -18,7 +18,9 @@ The saved subject-level results are in [`results/results.csv`](results/results.c
 | 13–30 Hz | 0.631111 | 0.148961 |
 | 8–30 Hz | 0.631111 | 0.094397 |
 
-Across the ten subjects, 8–13 Hz achieved the highest mean accuracy at 66.0%, compared with 63.1% for both 13–30 Hz and 8–30 Hz. However, performance varied substantially between subjects, indicating that the most informative frequency range may be subject dependent.are descriptive for the ten analyzed subjects and three selected recording runs. They do not establish generalization to other subjects, sessions, preprocessing choices, or classifiers.
+Across the ten subjects, 8–13 Hz achieved the highest mean accuracy at 66.0%, compared with 63.1% for both 13–30 Hz and 8–30 Hz. However, performance varied substantially between subjects, indicating that the most informative frequency range may be subject dependent. These results are descriptive for the ten analyzed subjects and three selected recording runs. They do not establish generalization to other subjects, sessions, preprocessing choices, or classifiers.
+
+![Frequency band classification results](figures/frequency_band_accuracy.png)
 
 ## Reproduce
 
